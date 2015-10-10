@@ -2,3 +2,4 @@
 
 a="bac"
 print(a)
+print('hello word!')
