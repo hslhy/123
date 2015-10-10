@@ -1,3 +1,4 @@
 #! /usr/bin/env python
 
-print('abc')
+a="bac"
+print(a)
